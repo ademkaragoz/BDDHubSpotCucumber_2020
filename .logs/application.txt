@@ -1,0 +1,22 @@
+2020-08-04 14:09:17,767  INFO [main] SharedSd:21 - *********************************
+2020-08-04 14:09:17,773  INFO [main] SharedSd:22 - Test setup method is starting...!
+2020-08-04 14:09:44,098 ERROR [main] SharedSd:31 - Test is failed...!
+2020-08-04 14:09:45,505  INFO [main] SharedSd:39 - *****************
+2020-08-04 14:13:24,948  INFO [main] SharedSd:21 - *********************************
+2020-08-04 14:13:24,955  INFO [main] SharedSd:22 - Test setup method is starting...!
+2020-08-04 14:13:36,832 ERROR [main] SharedSd:31 - Test is failed...!
+2020-08-04 14:13:37,896  INFO [main] SharedSd:39 - *****************
+2020-08-04 14:15:10,529  INFO [main] SharedSd:21 - *********************************
+2020-08-04 14:15:10,535  INFO [main] SharedSd:22 - Test setup method is starting...!
+2020-08-04 14:15:21,674  INFO [main] SharedSd:36 - Cleanup!
+2020-08-04 14:15:21,675  INFO [main] SharedSd:37 - Test completed...!
+2020-08-04 14:15:21,675  INFO [main] SharedSd:39 - *****************
+2020-08-04 14:18:09,924  INFO [main] SharedSd:21 - *********************************
+2020-08-04 14:18:09,931  INFO [main] SharedSd:22 - Test setup method is starting...!
+2020-08-04 14:18:30,045 ERROR [main] SharedSd:31 - Test is failed...!
+2020-08-04 14:18:31,000  INFO [main] SharedSd:39 - *****************
+2020-08-04 14:19:47,635  INFO [main] SharedSd:21 - *********************************
+2020-08-04 14:19:47,645  INFO [main] SharedSd:22 - Test setup method is starting...!
+2020-08-04 14:19:59,283  INFO [main] SharedSd:36 - Cleanup!
+2020-08-04 14:19:59,284  INFO [main] SharedSd:37 - Test completed...!
+2020-08-04 14:19:59,284  INFO [main] SharedSd:39 - *****************
